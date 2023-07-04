@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Alberto Perez Rivera
 
-<!--
-**AlbertoP18/AlbertoP18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a telematics engineering student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently improving Java skills
+- 👯 I’m looking to collaborate with other developers 
+- 🥅 2023 Goals: Learn more about Backend development
+- ⚡ Fun fact: I love working out
+
+
+### Connect with me:
+
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alberto-p%C3%A9rez-rivera-6b59a3252/)    [![website](./img/instagram-light.svg)]()
